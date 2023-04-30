@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,10 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./images/screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/ginthozan-v/FEM-qr-code-component)
 
 ### Built with
 
